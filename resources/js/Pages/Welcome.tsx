@@ -1,3 +1,4 @@
+import { Button } from '@/Components/ui/button';
 import { PageProps } from '@/types';
 import { Head, Link } from '@inertiajs/react';
 
@@ -20,7 +21,7 @@ export default function Welcome({
     return (
         <>
             <Head title="Welcome" />
-            Adi Aulia Rahman - 2201301110 Per cobaan ke dua
+           <Button>Testing Belajar Webhook - Adi Aulia Rahman</Button>
         </>
     );
 }
