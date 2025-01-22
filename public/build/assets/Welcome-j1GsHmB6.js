@@ -1,0 +1,1 @@
+import{j as e,L as r}from"./app-g6QubTDG.js";import{B as t}from"./button-DT_L9rXq.js";function l({auth:a,laravelVersion:o,phpVersion:s}){return e.jsxs(e.Fragment,{children:[e.jsx(r,{title:"Welcome"}),e.jsx(t,{children:"Testing Belajar Webhook - Adi Aulia Rahman"})]})}export{l as default};
