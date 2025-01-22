@@ -20,7 +20,7 @@ export default function Welcome({
     return (
         <>
             <Head title="Welcome" />
-            Adi Aulia Rahman - 2201301110
+            Adi Aulia Rahman - 2201301110 Per cobaan ke dua
         </>
     );
 }
